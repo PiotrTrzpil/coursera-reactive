@@ -1,0 +1,878 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -deprecation
+1 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+72 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$apply$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$apply$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$class.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$concatRecovered$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$recovered$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$recovered$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$timedOut$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$StringObservableOps$$anonfun$sanitized$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$StringObservableOps.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$class.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$ButtonClicked$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$ValueChanged$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$class.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteWikipediaApi$class.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteWikipediaApi.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$4.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$6.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$7.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$8.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$3.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$4.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$5.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$6.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package$Reaction$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/ObservableEx$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/ObservableEx.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/SchedulerEx$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/SchedulerEx.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/package$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/package.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$$anon$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Content.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Page.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Text.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$WikipediaService.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$1$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$13$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$9$1.class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search.class
+binary dependencies:
+36 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxjava/jars/rxjava-1.0.2.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxjava/jars/rxjava-1.0.2.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /home/sysop/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxswing/jars/rxswing-0.21.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.2.3.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/com.squareup.retrofit/retrofit/jars/retrofit-1.0.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/net.databinder.dispatch/dispatch-core_2.11/jars/dispatch-core_2.11-0.11.0.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.11.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.2.11.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/bundles/scala-async_2.11-0.9.2.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> /home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala
+inheritance external dependencies:
+0 items
+class names:
+72 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> common.package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> common.package$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$ButtonOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$ButtonOps$$anonfun$clicks$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$apply$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$TextFieldOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$TextFieldOps$$anonfun$textValues$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$apply$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions.gui.SwingApi$class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$ObservableOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$ObservableOps$$anonfun$concatRecovered$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$ObservableOps$$anonfun$recovered$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$ObservableOps$$anonfun$recovered$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$ObservableOps$$anonfun$timedOut$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$StringObservableOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$StringObservableOps$$anonfun$sanitized$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions.gui.WikipediaApi$class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteSwingApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteSwingApi$ButtonClicked$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteSwingApi$ValueChanged$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteSwingApi$class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteWikipediaApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.ConcreteWikipediaApi$class
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$1$$anon$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$4
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$6
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$7
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anon$8
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$3
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$4
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$5
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions.gui.WikipediaSuggest$$anon$5$$anonfun$6
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> suggestions.gui.package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> suggestions.gui.package$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> suggestions.gui.package$Reaction$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> suggestions.observablex.ObservableEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> suggestions.observablex.ObservableEx$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> suggestions.observablex.SchedulerEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> suggestions.observablex.SchedulerEx$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> suggestions.package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> suggestions.package$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$$anon$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$Content
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$Page
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$Text
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$WikipediaService
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$1$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$13$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions.search.Search$stateMachine$macro$9$1
+used names:
+478 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> ::
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> <repeated>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> Any
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> File
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> FileInputStream
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> InputStream
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> List
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> None
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> Nothing
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> Option
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> String
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> _root_
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> child
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> children
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> classesDir
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> common
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> exists
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> file
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> foldLeft
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> getClass
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> getParentFile
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> getResource
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> io
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> java
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> projectDir
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> resourceFile
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> resourcePath
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> subFile
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> toURI
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> &&
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> A1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> B1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Button
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> ButtonOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Event
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> ExecutionContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Failure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Function1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Implicits
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> JavaConverters
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> ListBuffer
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Observable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> PartialFunction
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Reaction
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Reactions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> String
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Subscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Success
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> SwingApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> TextField
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> TextFieldOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Try
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> Unit
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> apply
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> asInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> button
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> collection
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> concurrent
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> create
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> eq
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> event
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> field
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> global
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> gui
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> isInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> language
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> mutable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> obs
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> onNext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> reaction
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> reflectiveCalls
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> subscribe
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> swing
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> text
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> unchecked
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> unsubscribe
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> util
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> $conforms
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> CompositeSubscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> ExecutionContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Failure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> FiniteDuration
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Function1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Future
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Implicits
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> JavaConverters
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> List
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> ListBuffer
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Long
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Observable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> ObservableEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> ObservableOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> S
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> String
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> StringObservableOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Success
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> T
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> Try
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> WikipediaApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> _root_
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> apply
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> collection
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> concat
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> concurrent
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> duration
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> global
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> gui
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> language
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> map
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> mutable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> never
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> obs
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> observablex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> onErrorReturn
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> postfixOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> recovered
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> replace
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> requestMethod
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> subscriptions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> takeUntil
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> term
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> timedOut
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> timeout
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> totalSec
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> util
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> wikipediaPage
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> wikipediaSuggestion
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> $anon
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> +=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> BorderPanel
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> BoxPanel
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Button
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ButtonClicked
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Center
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> CompositeSubscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ConcreteSwingApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ConcreteWikipediaApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Dimension
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> EditorPane
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> EmptyBorder
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> EtchedBorder
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Event
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ExecutionContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Failure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Horizontal
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ImageIO
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ImageIcon
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Implicits
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> JavaConverters
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Label
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> List
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ListBuffer
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ListView
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> MainFrame
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> None
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Observable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Orientation
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Position
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> SchedulerEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ScrollPane
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> SimpleSwingApplication
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> String
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Subscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Success
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Swing
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> SwingApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> SwingEventThreadScheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> TextField
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Throwable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Try
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> UIManager
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ValueChanged
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> Vertical
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> WikipediaApi
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> WikipediaSuggest
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> add
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> apply
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> asInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> border
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> border_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> button
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> clicks
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> collection
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> concurrent
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> contents
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> contents_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> editable_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> editorpane
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> event
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> eventScheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> ex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> exception
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> filter
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> flatMap
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> from
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> getClass
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> getMessage
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> getResourceAsStream
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> getSystemLookAndFeelClassName
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> global
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> gui
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> head
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> icon_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> imageio
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> isInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> javax
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> list
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> listData
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> listData_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> map
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> maximumSize_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> minimumSize_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> mutable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> nonEmpty
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> observablex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> observeOn
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> pageSubscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> pages
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> peer
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> read
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> recovered
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> searchTermField
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> searchTerms
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> sel
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> selection
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> selections
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> self
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> setContentType
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> setLookAndFeel
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> source
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> status
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> str
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> subscribe
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> subscriptions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestionList
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestionSubscription
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> swing
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> term
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> textValues
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> text_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> title_=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> util
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> value
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> wikipediaPage
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> wikipediaSuggestion
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> x
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> Reaction
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> Reactions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> gui
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> r
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> swing
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> ExecutionContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Failure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Future
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Observable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> ObservableEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Scheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Success
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> T
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> Throwable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> concurrent
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> execContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> f
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> from
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> java
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> observablex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> util
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> JavaConversions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> Scheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> SchedulerEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> SwingEventThreadScheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> SwingScheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> getInstance
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> javaSchedulerToScalaScheduler
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> observablex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> schedulers
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> Any
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> println
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> x
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> $anon
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> +
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> <init>
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> ==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> AnyRef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Array
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Async
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Builder
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Callback
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Content
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> DefaultFormats
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> ExecutionContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Future
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> GET
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Http
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Implicits
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> JField
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> JObject
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> JString
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> JavaConverters
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> JsonParser
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> List
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> ManifestFactory
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> NonFatal
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> OK
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Observable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> ObservableEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Page
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Predef
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Promise
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Query
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Response
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> RestAdapter
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> RetrofitError
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> SchedulerEx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> SerializedName
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> String
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> T
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Text
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Try
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Tuple2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> Unit
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> _1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> _2
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> all
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> annotations
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> apply
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> arraylist
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> as
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> asInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> asScala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> asScalaBufferConverter
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> async
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> await
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> build
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> callbackFuture
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> canBuildFrom
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> cb
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> child
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> classType
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> client
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> collection
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> com
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> complete
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> concurrent
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> create
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> dispatch
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> error
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> execContext
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> extra
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> extract
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> f
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> failure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> fields
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> flatMap
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> formats
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> future
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> get
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> global
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> google
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> gson
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> head
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> http
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> immutable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> implyRequestHandlerTuple
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> isEmpty
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> isFailure
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> isInstanceOf
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> java
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> json
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> json4s
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> jvalue2extractable
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> jvalue2monadic
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> lang
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> language
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> log
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> map
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> native
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> ne
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> obj
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> observablex
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> onComplete
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> org
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> p
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> package
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> page
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> parse
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> postfixOps
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> reflect
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> response
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> restAdapter
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> result
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> resume
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> retrofit
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> rx
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> s
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> scala
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> search
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> service
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> setServer
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> state
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> stateMachine$macro$1
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> stateMachine$macro$13
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> stateMachine$macro$5
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> stateMachine$macro$9
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> success
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> suggestions
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> t
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> term
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> text
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> tfields
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> title
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> toList
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> tr
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> unapply
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> unary_!
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> unchecked
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> url
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> util
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> wikipediaPageRetrofit
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> wikipediaSuggestionRetrofit
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> withFilter
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> words
+product stamps:
+72 items
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package$.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/common/package.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$ButtonClicked$.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$ValueChanged$.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi$class.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteSwingApi.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteWikipediaApi$class.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/ConcreteWikipediaApi.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$2.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1$$anonfun$apply$2.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps$$anonfun$clicks$1.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$ButtonOps.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$1.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1$$anonfun$apply$1.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps$$anonfun$textValues$1.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$TextFieldOps.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi$class.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/SwingApi.class -> lastModified(1431118530000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$concatRecovered$1.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$recovered$1.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$recovered$2.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps$$anonfun$timedOut$1.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$ObservableOps.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$StringObservableOps$$anonfun$sanitized$1.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$StringObservableOps.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi$class.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaApi.class -> lastModified(1431193383000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$4.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3$$anon$6.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2$$anon$3.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1$$anon$2.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$1.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$7.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anon$8.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$1.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$2.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$3.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$4.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$5.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5$$anonfun$6.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$$anon$5.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest$.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/WikipediaSuggest.class -> lastModified(1431209081000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package$Reaction$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/gui/package.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/ObservableEx$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/ObservableEx.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/SchedulerEx$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/observablex/SchedulerEx.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/package$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/package.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$$anon$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Content.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Page.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$Text.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$WikipediaService.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$1$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$13$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2$$anonfun$apply$2.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1$$anonfun$2.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$5$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search$stateMachine$macro$9$1.class -> lastModified(1431118531000)
+/home/sysop/Downloads/suggestions/suggestions/target/scala-2.11/classes/suggestions/search/Search.class -> lastModified(1431118531000)
+source stamps:
+9 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> hash(fc8d074ee0ced9387e02998e192f10f44d893b05)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> hash(a5598c1671d5dbdaae9bcdfbb43de7aba2d2eca3)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> hash(17b5eb219f1ef93cc946c665aaf16d304e355be2)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> hash(ddb3279a25523c929651274e24b1f76d68da9e64)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> hash(8820fa90151d2d8f1e26899fe932bd5cf0937b86)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> hash(9f608200e6c4096c662f516b9ee13c6b30759008)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> hash(14f4556ba81febb8f2d26ce7bd6b9ad06d0151c6)
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> hash(22696a88a28cc8a98130b4c1b05b5adbe126e6c9)
+binary stamps:
+13 items
+/home/sysop/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.2.3.jar -> lastModified(1365802648000)
+/home/sysop/.ivy2/cache/com.squareup.retrofit/retrofit/jars/retrofit-1.0.0.jar -> lastModified(1368460623000)
+/home/sysop/.ivy2/cache/io.reactivex/rxjava/jars/rxjava-1.0.2.jar -> lastModified(1417501911000)
+/home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar -> lastModified(1417886651000)
+/home/sysop/.ivy2/cache/io.reactivex/rxswing/jars/rxswing-0.21.0.jar -> lastModified(1412751617000)
+/home/sysop/.ivy2/cache/net.databinder.dispatch/dispatch-core_2.11/jars/dispatch-core_2.11-0.11.0.jar -> lastModified(1398003288000)
+/home/sysop/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.11.jar -> lastModified(1414113005000)
+/home/sysop/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> lastModified(1414113034000)
+/home/sysop/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.2.11.jar -> lastModified(1414113048000)
+/home/sysop/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/bundles/scala-async_2.11-0.9.2.jar -> lastModified(1405977084000)
+/home/sysop/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar -> lastModified(1397640386000)
+/home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1429173098000)
+class names:
+13 items
+/home/sysop/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.2.3.jar -> com.google.gson.annotations.SerializedName
+/home/sysop/.ivy2/cache/com.squareup.retrofit/retrofit/jars/retrofit-1.0.0.jar -> retrofit.Callback
+/home/sysop/.ivy2/cache/io.reactivex/rxjava/jars/rxjava-1.0.2.jar -> rx.subscriptions.CompositeSubscription
+/home/sysop/.ivy2/cache/io.reactivex/rxscala_2.11/jars/rxscala_2.11-0.23.0.jar -> rx.lang.scala.Observable
+/home/sysop/.ivy2/cache/io.reactivex/rxswing/jars/rxswing-0.21.0.jar -> rx.schedulers.SwingScheduler
+/home/sysop/.ivy2/cache/net.databinder.dispatch/dispatch-core_2.11/jars/dispatch-core_2.11-0.11.0.jar -> dispatch.RequestHandlerTupleBuilder
+/home/sysop/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.11.jar -> org.json4s.JsonAST$
+/home/sysop/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> org.json4s.MonadicJValue
+/home/sysop/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.2.11.jar -> org.json4s.native.JsonParser$
+/home/sysop/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/bundles/scala-async_2.11-0.9.2.jar -> scala.async.Async$
+/home/sysop/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar -> scala.swing.BoxPanel
+/home/sysop/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.collection.mutable.ListBuffer
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+9 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNNU+aMnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEcvaG9tZS9zeXNvcC9Eb3dubG9hZHMvc3VnZ2VzdGlvbnMvc3VnZ2VzdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJWdLegGkkBhGP/tSB2kRTSp2oJK
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBiS7yeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVi1WNXQADFRleHRGaWVsZE9wc3NxAH4AC53d5P50AAlCdXR0b25PcHN1cQB+AAkAAAAgc3EAfgALFkZiJ3QADUJ1dHRvbkNsaWNrZWRzcQB+AAvMj1GidAAGbm90aWZ5c3EAfgALO4/Tc3QAB3VuYXBwbHlzcQB+AAuXRVzvdAAEd2FpdHNxAH4AC+IV+Bx0AA0kYXNJbnN0YW5jZU9mc3EAfgALJdNSTXQABmVxdWFsc3NxAH4AC+ZU9n90AAxhc0luc3RhbmNlT2ZzcQB+AAsQYzkudAAMc3luY2hyb25pemVkc3EAfgALqquAw3QADSRpc0luc3RhbmNlT2ZzcQB+AAsbYqO9dAAJc3Vic2NyaWJlc3EAfgAL+vwxvXQADFZhbHVlQ2hhbmdlZHNxAH4ACxGDhxd0AAR0ZXh0c3EAfgALh1S0/XQACW5vdGlmeUFsbHNxAH4AC1nSYeJ0AAxpc0luc3RhbmNlT2ZzcQB+AAvuVrKQdAAGPGluaXQ+c3EAfgALpoTIAXQABkJ1dHRvbnNxAH4AC7cAdvx0AAI9PXNxAH4AC0Bk/Sp0AAVjbG9uZXNxAH4AC7TscAN0AAt1bnN1YnNjcmliZXNxAH4AC1TX8St0AAp0ZXh0VmFsdWVzc3EAfgALx5YA8HQABiRpbml0JHNxAH4AC8UxxON0AAZjbGlja3NzcQB+AAu9dxIQdAAIdG9TdHJpbmdzcQB+AAtQD1kWdAACIT1zcQB+AAsBzgtmdAAIZ2V0Q2xhc3NzcQB+AAs7w1TxdAAIU3dpbmdBcGlzcQB+AAsT6ukldAAJVGV4dEZpZWxkc3EAfgALSChqkXQAAm5lc3EAfgALzYwSZHQAAmVxc3EAfgAL6hr+43QAAiMjc3EAfgAL1/2szHQACGZpbmFsaXplc3EAfgALwvHBBHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAGHN1Z2dlc3Rpb25zLmd1aS5Td2luZ0FwaXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcwBwc3EAfgB4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AfHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCYdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMdAADQW55c3EAfgCQc3EAfgCTdXEAfgCWAAAAAnNxAH4AmHQABXNjYWxhcQB+AJ91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AA9zdWdnZXN0aW9ucy5ndWlzcQB+AKl0AAtzdWdnZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTVPmjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABHL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT8jQdO4M7ZOH4CmY4ZLxD0TYk7BQ==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD9mO0PAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwF6HupHQAE1N0cmluZ09ic2VydmFibGVPcHNzcQB+AAtxk/5ydAANT2JzZXJ2YWJsZU9wc3VxAH4ACQAAAB5zcQB+AAtptuc+dAAGbm90aWZ5c3EAfgALxqE4sXQAD2NvbmNhdFJlY292ZXJlZHNxAH4AC8Zhp0d0AAR3YWl0c3EAfgAL8AZ8nnQADSRhc0luc3RhbmNlT2ZzcQB+AAsGDxQadAAGZXF1YWxzc3EAfgALdifMSXQADGFzSW5zdGFuY2VPZnNxAH4ACyynod90AA13aWtpcGVkaWFQYWdlc3EAfgALFXWrR3QACXJlY292ZXJlZHNxAH4AC62/Tlp0AAxzeW5jaHJvbml6ZWRzcQB+AAspBut+dAANJGlzSW5zdGFuY2VPZnNxAH4AC4bbN/h0ABN3aWtpcGVkaWFTdWdnZXN0aW9uc3EAfgAL8HZWbnQADFdpa2lwZWRpYUFwaXNxAH4AC++fWKJ0AAh0aW1lZE91dHNxAH4AC4Cbcml0AAlub3RpZnlBbGxzcQB+AAtHq7ZTdAAMaXNJbnN0YW5jZU9mc3EAfgALxWIcnXQABjxpbml0PnNxAH4AC86VvFd0ABZ3aWtpUGFnZVJlc3BvbnNlU3RyZWFtc3EAfgAL+p8lf3QACXNhbml0aXplZHNxAH4AC5iitg10AAI9PXNxAH4AC2qEoAt0AAVjbG9uZXNxAH4AC28ZYq50AAYkaW5pdCRzcQB+AAtGnTRmdAAIdG9TdHJpbmdzcQB+AAtTRT/JdAACIT1zcQB+AAtNXaixdAAIZ2V0Q2xhc3NzcQB+AAsyTj29dAACbmVzcQB+AAt+CU1cdAAZd2lraVN1Z2dlc3RSZXNwb25zZVN0cmVhbXNxAH4AC3cn5Ap0AAJlcXNxAH4ACy/QwN10AAIjI3NxAH4AC121G/p0AAhmaW5hbGl6ZXNxAH4ACzbvehB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABxzdWdnZXN0aW9ucy5ndWkuV2lraXBlZGlhQXBpdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdnNxAH4AbwF1cQB+AFIAAAAAcHNxAH4AbwF1cQB+AFIAAAAAcHNxAH4AbwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI9zcQB+AIJ0AANBbnlzcQB+AIZzcQB+AIl1cQB+AIwAAAACc3EAfgCOdAAFc2NhbGFxAH4AlXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAPc3VnZ2VzdGlvbnMuZ3Vpc3EAfgCfdAALc3VnZ2VzdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU05xdA9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUpVmMFnHV29qum837tD3nq6LS7KM=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB62V+jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4VRx2HQADFRleHRGaWVsZE9wc3NxAH4AC8t9j2N0AAlCdXR0b25PcHNzcQB+AAu+TI48dAATU3RyaW5nT2JzZXJ2YWJsZU9wc3NxAH4ACxjU16Z0AA1PYnNlcnZhYmxlT3BzdXEAfgAJAAAAMXNxAH4AC72qkhB0AA1CdXR0b25DbGlja2Vkc3EAfgAL8DIYKHQABm5vdGlmeXNxAH4ACyx5UQJ0AAd1bmFwcGx5c3EAfgALkokGGHQAD2NvbmNhdFJlY292ZXJlZHNxAH4AC7flv190AAR3YWl0c3EAfgAL5aC/InQADSRhc0luc3RhbmNlT2ZzcQB+AAuFSwNkdAAGZXF1YWxzc3EAfgALxHKws3QAF3Jlc291cmNlRnJvbUNsYXNzbG9hZGVyc3EAfgALCWcxYHQACGxpc3RlblRvc3EAfgALWGC72HQACXJlYWN0aW9uc3NxAH4AC9cyrjR0ABRDb25jcmV0ZVdpa2lwZWRpYUFwaXNxAH4AC3EpYQh0AAdzdGFydHVwc3EAfgALYI5wX3QADGFzSW5zdGFuY2VPZnNxAH4AC6zo1Cd0AA13aWtpcGVkaWFQYWdlc3EAfgALycNOIXQACXJlY292ZXJlZHNxAH4ACw0vtXt0AAxzeW5jaHJvbml6ZWRzcQB+AAsVIAVqdAANJGlzSW5zdGFuY2VPZnNxAH4AC4lN53R0AAxWYWx1ZUNoYW5nZWRzcQB+AAutLoCIdAATd2lraXBlZGlhU3VnZ2VzdGlvbnNxAH4AC6dtdnB0AARtYWluc3EAfgALM8Y/KHQACHRpbWVkT3V0c3EAfgALTiYxy3QACW5vdGlmeUFsbHNxAH4AC7n/xAV0AARxdWl0c3EAfgALi0WJBnQADGlzSW5zdGFuY2VPZnNxAH4AC+td/u50AAhzaHV0ZG93bnNxAH4AC2cx2I90AAY8aW5pdD5zcQB+AAuu6lAxdAAWd2lraVBhZ2VSZXNwb25zZVN0cmVhbXNxAH4AC2726790AAZCdXR0b25zcQB+AAvVeHE6dAAJc2FuaXRpemVkc3EAfgALfsWYNXQABmRlYWZUb3NxAH4AC+PESlZ0AAI9PXNxAH4ACx3IaFh0AAVjbG9uZXNxAH4ACybjwjR0AAp0ZXh0VmFsdWVzc3EAfgALwslkJnQABiRpbml0JHNxAH4AC9R27+10AAZjbGlja3NzcQB+AAuaHR5fdAAIdG9TdHJpbmdzcQB+AAsAdSGadAACIT1zcQB+AAsHF/bjdAAQQ29uY3JldGVTd2luZ0FwaXNxAH4AC/Z4/Gd0AAhnZXRDbGFzc3NxAH4ACyFF43h0ABlyZXNvdXJjZUZyb21Vc2VyRGlyZWN0b3J5c3EAfgALIHV2lnQAEFdpa2lwZWRpYVN1Z2dlc3RzcQB+AAs9+97FdAAJVGV4dEZpZWxkc3EAfgALKTGCfXQAAm5lc3EAfgALfvrM33QAA3RvcHNxAH4ACy7qhR10ABl3aWtpU3VnZ2VzdFJlc3BvbnNlU3RyZWFtc3EAfgALy8FyFXQAAmVxc3EAfgALjpGSjnQAAiMjc3EAfgALkd1ExHQACGZpbmFsaXplc3EAfgALRZt+unQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AgXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIHN1Z2dlc3Rpb25zLmd1aS5XaWtpcGVkaWFTdWdnZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCBTAAJaW5oZXJpdGVkcQB+AIFMAAdwYXJlbnRzcQB+AIF4cQB+AKBzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgA9dXEAfgCRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AlHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4An3NxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBcHNxAH4AmQF1cQB+ANUAAAAJc3EAfgCwdAAUQ29uY3JldGVXaWtpcGVkaWFBcGlzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8dAALc3VnZ2VzdGlvbnNzcQB+ALx0AANndWlxAH4AwXNxAH4AsHQADFdpa2lwZWRpYUFwaXEAfgDkc3EAfgCwdAAQQ29uY3JldGVTd2luZ0FwaXEAfgDkc3EAfgCwdAAIU3dpbmdBcGlxAH4A5HNxAH4AsHQAFlNpbXBsZVN3aW5nQXBwbGljYXRpb25zcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AL9zcQB+ALx0AAVzd2luZ3EAfgDBc3EAfgCwdAAQU3dpbmdBcHBsaWNhdGlvbnEAfgDzc3EAfgCwdAAHUmVhY3RvcnEAfgDzc3EAfgCwdAAGT2JqZWN0cQB+ANlzcQB+ALB0AANBbnlxAH4AtnBwc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAXQAJHN1Z2dlc3Rpb25zLmd1aS5Db25jcmV0ZVdpa2lwZWRpYUFwaXVxAH4AkQAAAAB+cQB+AJN0AAVUcmFpdHVxAH4AlwAAAABzcQB+AJkBcQB+AKFwc3EAfgCZAXNxAH4Ao3NxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cQB+ANUAAAADc3EAfgCwdAAMV2lraXBlZGlhQXBpc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQAC3N1Z2dlc3Rpb25zc3EAfgC8dAADZ3VpcQB+AMFzcQB+ALBxAH4A/nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHEAfgDfcQB+AMFzcQB+ALBxAH4BAHNxAH4AtHNxAH4At3VxAH4AugAAAAJzcQB+ALxxAH4Av3EAfgDBcHBzcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4BdAAgc3VnZ2VzdGlvbnMuZ3VpLkNvbmNyZXRlU3dpbmdBcGl1cQB+AJEAAAAAcQB+AQZ1cQB+AJcAAAAAc3EAfgCZAXEAfgChcHNxAH4AmQFzcQB+AKNzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgDVAAAAA3NxAH4AsHQACFN3aW5nQXBpc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQAC3N1Z2dlc3Rpb25zc3EAfgC8dAADZ3VpcQB+AMFzcQB+ALBxAH4A/nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHEAfgDfcQB+AMFzcQB+ALBxAH4BAHNxAH4AtHNxAH4At3VxAH4AugAAAAJzcQB+ALxxAH4Av3EAfgDBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AA9zdWdnZXN0aW9ucy5ndWlzcQB+AUt0AAtzdWdnZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTq1XD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABHL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQXteshnx75PMlGxmWq8W0wTjVb4g==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGLDriAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKKtv7x0AAZub3RpZnlzcQB+AAzQBJjpdAAHcGFja2FnZXNxAH4ADMk3jYh0AAR3YWl0c3EAfgAMM5/Sh3QADSRhc0luc3RhbmNlT2ZzcQB+AAzp65N2dAAGZXF1YWxzc3EAfgAMPHO97nQADGFzSW5zdGFuY2VPZnNxAH4ADAfU0Xp0AAxzeW5jaHJvbml6ZWRzcQB+AAzcbfqDdAANJGlzSW5zdGFuY2VPZnNxAH4ADGg9r5d0AAlub3RpZnlBbGxzcQB+AAyGRGSldAAMaXNJbnN0YW5jZU9mc3EAfgAMvWX1i3QACFJlYWN0aW9uc3EAfgAMZhR0wXQABWFwcGx5c3EAfgAM8Gojo3QAAj09c3EAfgAMSlBmxHQABWNsb25lc3EAfgAMblb723QACHRvU3RyaW5nc3EAfgAMsHEcg3QAAiE9c3EAfgAM7qJKoHQACGdldENsYXNzc3EAfgAMBnIn8XQAAm5lc3EAfgAMOsg5GnQAAmVxc3EAfgAM+mmng3QAAiMjc3EAfgAMLo/jWnQACGZpbmFsaXplc3EAfgAMi0NoznQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF3N1Z2dlc3Rpb25zLmd1aS5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWwBwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA9zdWdnZXN0aW9ucy5ndWlzcQB+AJF0AAtzdWdnZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTVPmjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTdsyeaJVI8kpZRJ04ksfdtaNqeZA==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9e6wJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNxTYyV0AAZub3RpZnlzcQB+AAyLXfVpdAAEd2FpdHNxAH4ADK/L8hx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMuhiA/nQABmVxdWFsc3NxAH4ADDse6qp0AAxhc0luc3RhbmNlT2ZzcQB+AAzX8R3PdAAMc3luY2hyb25pemVkc3EAfgAMw8ZDN3QADSRpc0luc3RhbmNlT2ZzcQB+AAw1MFs5dAAJbm90aWZ5QWxsc3EAfgAMG/5ldXQADGlzSW5zdGFuY2VPZnNxAH4ADHM0r4p0AAVhcHBseXNxAH4ADNCWzzR0AAI9PXNxAH4ADJvIfZ50AAVjbG9uZXNxAH4ADJ1QnjB0AAh0b1N0cmluZ3NxAH4ADJOClqt0AAIhPXNxAH4ADDOJBIZ0AAhnZXRDbGFzc3NxAH4ADK9mlfV0AAxPYnNlcnZhYmxlRXhzcQB+AAykpT/xdAACbmVzcQB+AAwGoy7IdAACZXFzcQB+AAzgu1sHdAACIyNzcQB+AAyNP9lFdAAIZmluYWxpemVzcQB+AAxnp/I7dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAkc3VnZ2VzdGlvbnMub2JzZXJ2YWJsZXguT2JzZXJ2YWJsZUV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABdzdWdnZXN0aW9ucy5vYnNlcnZhYmxleHNxAH4Aj3QAC3N1Z2dlc3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNNU+aMnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEcvaG9tZS9zeXNvcC9Eb3dubG9hZHMvc3VnZ2VzdGlvbnMvc3VnZ2VzdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIgg+pAVHS2PHiaJn+kyvVzwk3uG
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHACiMV3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyPwtB0AAZub3RpZnlzcQB+AAzac8XbdAAZU3dpbmdFdmVudFRocmVhZFNjaGVkdWxlcnNxAH4ADJOrRHx0AAR3YWl0c3EAfgAMxALNj3QADSRhc0luc3RhbmNlT2ZzcQB+AAxqsg7ZdAAGZXF1YWxzc3EAfgAMZLFMMHQADGFzSW5zdGFuY2VPZnNxAH4ADBQWW990AAxzeW5jaHJvbml6ZWRzcQB+AAxNMAqndAANJGlzSW5zdGFuY2VPZnNxAH4ADG9CJ0B0AAlub3RpZnlBbGxzcQB+AAyGt32fdAAMaXNJbnN0YW5jZU9mc3EAfgAMNQL63nQAAj09c3EAfgAM5mEG13QABWNsb25lc3EAfgAM03LKaXQACHRvU3RyaW5nc3EAfgAMsyv9VnQAAiE9c3EAfgAM0rGqLXQACGdldENsYXNzc3EAfgAMv0pS2HQAAm5lc3EAfgAM7bHxkXQAC1NjaGVkdWxlckV4c3EAfgAM+YSwQHQAAmVxc3EAfgAMIX4Q13QAAiMjc3EAfgAMekIY5nQACGZpbmFsaXplc3EAfgAMIe1N1HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAI3N1Z2dlc3Rpb25zLm9ic2VydmFibGV4LlNjaGVkdWxlckV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABdzdWdnZXN0aW9ucy5vYnNlcnZhYmxleHNxAH4Aj3QAC3N1Z2dlc3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNNU+aMnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEcvaG9tZS9zeXNvcC9Eb3dubG9hZHMvc3VnZ2VzdGlvbnMvc3VnZ2VzdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ9gggDmxAlsZi9Ra57hPGswdZAI
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDEXVJyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFqlIpB0AAZub3RpZnlzcQB+AAxpwNehdAAHcGFja2FnZXNxAH4ADAOPgNx0AAR3YWl0c3EAfgAMfL+GtHQADSRhc0luc3RhbmNlT2ZzcQB+AAymDsyxdAAGZXF1YWxzc3EAfgAMAT025nQADGFzSW5zdGFuY2VPZnNxAH4ADH1Pc8R0AAxzeW5jaHJvbml6ZWRzcQB+AAyUqLmwdAANJGlzSW5zdGFuY2VPZnNxAH4ADIx4yrF0AAlub3RpZnlBbGxzcQB+AAw0Tc6WdAAMaXNJbnN0YW5jZU9mc3EAfgAMTAyyZXQAAj09c3EAfgAMJrjJHnQABWNsb25lc3EAfgAMcCoD+XQACHRvU3RyaW5nc3EAfgAM1M2TGnQAAiE9c3EAfgAMlJiXRnQACGdldENsYXNzc3EAfgAMWyeC/HQAAm5lc3EAfgAMpeVU23QAAmVxc3EAfgAMkySnaXQAA2xvZ3NxAH4ADHb8i890AAIjI3NxAH4ADJgYqK50AAhmaW5hbGl6ZXNxAH4ADDQY2Px0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNzdWdnZXN0aW9ucy5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtzdWdnZXN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTVPmjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQU9FVrqB/ruPLSbOe9a5rQbQFRxg==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHATBjzsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzeb6OHQAB2Zvcm1hdHN1cQB+AAkAAAAoc3EAfgALX19RC3QABm5vdGlmeXNxAH4AC6hB+VF0ABBXaWtpcGVkaWFTZXJ2aWNlc3EAfgALldAnVXQAB0NvbnRlbnRzcQB+AAtfThuDdAAEd2FpdHNxAH4ACz4TGLZ0AAtyZXN0QWRhcHRlcnNxAH4AC4pyku10AA0kYXNJbnN0YW5jZU9mc3EAfgALrgxgGnQABmVxdWFsc3NxAH4AC3v5vgd0AANhbGxzcQB+AAuT+4v7dAAMYXNJbnN0YW5jZU9mc3EAfgALGnh/j3QADXdpa2lwZWRpYVBhZ2VzcQB+AAtWC11bdAAEcGFnZXNxAH4AC5bUmt10AAxzeW5jaHJvbml6ZWRzcQB+AAuieXg5dAANJGlzSW5zdGFuY2VPZnNxAH4ACxpOAzx0AA5jYWxsYmFja0Z1dHVyZXNxAH4AC5Zpr4d0ABN3aWtpcGVkaWFTdWdnZXN0aW9uc3EAfgAL2TZY+XQABHRleHRzcQB+AAuh4yRVdAALc3VnZ2VzdGlvbnNzcQB+AAvR38BMdAAHc2VydmljZXNxAH4AC0dcvu10AAlub3RpZnlBbGxzcQB+AAtydQ8pdAAMaXNJbnN0YW5jZU9mc3EAfgALzW83eXQABFBhZ2VzcQB+AAtNL5m4dAAGPGluaXQ+c3EAfgALAO2pR3QABXBhcnNlc3EAfgALFl1yaHQAAj09c3EAfgALn+ZpdnQABWNsb25lc3EAfgAL0xcEqHQABFRleHRzcQB+AAs+vHu0dAAbd2lraXBlZGlhU3VnZ2VzdGlvblJldHJvZml0c3EAfgAL9nrAmHQAEXdpa2lwZWRpYVBhZ2VKc29uc3EAfgALZXs/XXQACHRvU3RyaW5nc3EAfgALnCnTX3QAF3dpa2lwZWRpYVN1Z2dlc3Rpb25Kc29uc3EAfgALyNK5oHQAAiE9c3EAfgALugFZ/XQABlNlYXJjaHNxAH4ACyvs/ZN0AAhnZXRDbGFzc3NxAH4ACwb5Dwd0ABV3aWtpcGVkaWFQYWdlUmV0cm9maXRzcQB+AAsw1JIEdAAFdGl0bGVzcQB+AAuvd1a7dAACbmVzcQB+AAvHDHKKdAACZXFzcQB+AAvJt8uCdAACIyNzcQB+AAuS9zTcdAAIZmluYWxpemVzcQB+AAsSQs/sdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZc3VnZ2VzdGlvbnMuc2VhcmNoLlNlYXJjaHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIEAcHNxAH4AhnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIpzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ApnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AmnQAA0FueXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AAVzY2FsYXEAfgCtdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAASc3VnZ2VzdGlvbnMuc2VhcmNoc3EAfgC3dAALc3VnZ2VzdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU01T5oydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUImlqiKKMyKmBMLTBsFta2+Em5sk=
+external apis:
+0 items
+source infos:
+9 items
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/SwingApi.scala -> 
+AAAABAAAAQAAADgAOCAgICAgICAgY2FzZSAoZXY6VmFsdWVDaGFuZ2VkKSA9PiBvYnMub25OZXh0KGZpZWxkLnRleHQpAQAABjkBAAAAEQEAESAgICAgICAgICAgICAgICAgAQBbL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3NyYy9tYWluL3NjYWxhL3N1Z2dlc3Rpb25zL2d1aS9Td2luZ0FwaS5zY2FsYQEAWy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy9zcmMvbWFpbi9zY2FsYS9zdWdnZXN0aW9ucy9ndWkvU3dpbmdBcGkuc2NhbGEAX2Fic3RyYWN0IHR5cGUgcGF0dGVybiBTd2luZ0FwaS50aGlzLlZhbHVlQ2hhbmdlZCBpcyB1bmNoZWNrZWQgc2luY2UgaXQgaXMgZWxpbWluYXRlZCBieSBlcmFzdXJlAQAAAQAAADgAOCAgICAgICAgY2FzZSAoZXY6VmFsdWVDaGFuZ2VkKSA9PiBvYnMub25OZXh0KGZpZWxkLnRleHQpAQAABjkBAAAAEQEAESAgICAgICAgICAgICAgICAgAQBbL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3NyYy9tYWluL3NjYWxhL3N1Z2dlc3Rpb25zL2d1aS9Td2luZ0FwaS5zY2FsYQEAWy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy9zcmMvbWFpbi9zY2FsYS9zdWdnZXN0aW9ucy9ndWkvU3dpbmdBcGkuc2NhbGEAX2Fic3RyYWN0IHR5cGUgcGF0dGVybiBTd2luZ0FwaS50aGlzLlZhbHVlQ2hhbmdlZCBpcyB1bmNoZWNrZWQgc2luY2UgaXQgaXMgZWxpbWluYXRlZCBieSBlcmFzdXJlAQAAAQAAAEkANSAgICAgICAgY2FzZSAoZXY6QnV0dG9uQ2xpY2tlZCkgPT4gb2JzLm9uTmV4dChidXR0b24pAQAACB4BAAAAEQEAESAgICAgICAgICAgICAgICAgAQBbL2hvbWUvc3lzb3AvRG93bmxvYWRzL3N1Z2dlc3Rpb25zL3N1Z2dlc3Rpb25zL3NyYy9tYWluL3NjYWxhL3N1Z2dlc3Rpb25zL2d1aS9Td2luZ0FwaS5zY2FsYQEAWy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy9zcmMvbWFpbi9zY2FsYS9zdWdnZXN0aW9ucy9ndWkvU3dpbmdBcGkuc2NhbGEAYGFic3RyYWN0IHR5cGUgcGF0dGVybiBTd2luZ0FwaS50aGlzLkJ1dHRvbkNsaWNrZWQgaXMgdW5jaGVja2VkIHNpbmNlIGl0IGlzIGVsaW1pbmF0ZWQgYnkgZXJhc3VyZQEAAAEAAABJADUgICAgICAgIGNhc2UgKGV2OkJ1dHRvbkNsaWNrZWQpID0+IG9icy5vbk5leHQoYnV0dG9uKQEAAAgeAQAAABEBABEgICAgICAgICAgICAgICAgIAEAWy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy9zcmMvbWFpbi9zY2FsYS9zdWdnZXN0aW9ucy9ndWkvU3dpbmdBcGkuc2NhbGEBAFsvaG9tZS9zeXNvcC9Eb3dubG9hZHMvc3VnZ2VzdGlvbnMvc3VnZ2VzdGlvbnMvc3JjL21haW4vc2NhbGEvc3VnZ2VzdGlvbnMvZ3VpL1N3aW5nQXBpLnNjYWxhAGBhYnN0cmFjdCB0eXBlIHBhdHRlcm4gU3dpbmdBcGkudGhpcy5CdXR0b25DbGlja2VkIGlzIHVuY2hlY2tlZCBzaW5jZSBpdCBpcyBlbGltaW5hdGVkIGJ5IGVyYXN1cmUBAAAAAA==
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/gui/package.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/package.scala -> 
+AAAAAAAAAAA=
+/home/sysop/Downloads/suggestions/suggestions/src/main/scala/suggestions/search/Search.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTVPmjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTnF0D11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTqcvsJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTqd0cF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTTq1XD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3N5c29wL0Rvd25sb2Fkcy9zdWdnZXN0aW9ucy9zdWdnZXN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
