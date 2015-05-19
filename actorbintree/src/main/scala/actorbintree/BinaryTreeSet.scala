@@ -66,7 +66,10 @@ class BinaryTreeSet extends Actor {
 
   // optional
   /** Accepts `Operation` and `GC` messages. */
-  val normal: Receive = { case _ => ??? }
+  val normal: Receive = {
+    case c:Contains => root ! c
+    case i:Insert => root ! i
+  }
 
   // optional
   /** Handles messages while garbage collection is performed.
@@ -92,16 +95,38 @@ object BinaryTreeNode {
 class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
   import BinaryTreeNode._
   import BinaryTreeSet._
-
+  import common._
   var subtrees = Map[Position, ActorRef]()
   var removed = initiallyRemoved
 
   // optional
   def receive = normal
 
+  def createChild(pos:Position, insert:Insert) = {
+    val child = context.actorOf(Props(classOf[BinaryTreeNode], insert.elem, false))
+    subtrees = subtrees + (pos -> child)
+    insert.requester ! OperationFinished(insert.id)
+  }
   // optional
   /** Handles `Operation` messages and `CopyTo` requests. */
-  val normal: Receive = { case _ => ??? }
+  val normal: Receive = {
+    case insert : Insert =>
+      if(insert.elem < elem) {
+        subtrees.get(Left).fold(createChild(Left, insert))(_ ! insert)
+      } else if (insert.elem > elem) {
+        subtrees.get(Right).fold(createChild(Right, insert))(_ ! insert)
+      } else {
+        insert.requester ! OperationFinished(insert.id)
+      }
+    case contains @ Contains(replyTo, id, targetElem) =>
+      if(targetElem < elem) {
+        subtrees.get(Left).fold(replyTo ! ContainsResult(id, result = false))(_ ! contains)
+      } else if (targetElem > elem) {
+        subtrees.get(Right).fold(replyTo ! ContainsResult(id, result = false))(_ ! contains)
+      } else {
+        replyTo ! ContainsResult(id, result = true)
+      }
+  }
 
   // optional
   /** `expected` is the set of ActorRefs whose replies we are waiting for,
