@@ -69,6 +69,7 @@ class BinaryTreeSet extends Actor {
   val normal: Receive = {
     case c:Contains => root ! c
     case i:Insert => root ! i
+    case r:Remove => root ! r
   }
 
   // optional
@@ -105,26 +106,46 @@ class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
   def createChild(pos:Position, insert:Insert) = {
     val child = context.actorOf(Props(classOf[BinaryTreeNode], insert.elem, false))
     subtrees = subtrees + (pos -> child)
-    insert.requester ! OperationFinished(insert.id)
+    sendFinished(insert)
+  }
+
+  def sendFinished(oper: Operation) = {
+    oper.requester ! OperationFinished(oper.id)
+  }
+  def sendContains(oper: Contains, contains:Boolean) = {
+    oper.requester ! ContainsResult(oper.id, contains)
+  }
+  def doOrPassOn(pos:Position, ifNone: =>Unit, oper:Operation) = {
+    subtrees.get(pos).fold(ifNone)(_ ! oper)
   }
   // optional
   /** Handles `Operation` messages and `CopyTo` requests. */
   val normal: Receive = {
+    case remove: Remove =>
+      if(remove.elem < elem) {
+        doOrPassOn(Left, sendFinished(remove), remove)
+      } else if (remove.elem > elem) {
+        doOrPassOn(Right, sendFinished(remove), remove)
+      } else {
+        removed = true
+        sendFinished(remove)
+      }
     case insert : Insert =>
       if(insert.elem < elem) {
-        subtrees.get(Left).fold(createChild(Left, insert))(_ ! insert)
+        doOrPassOn(Left, createChild(Left, insert), insert)
       } else if (insert.elem > elem) {
-        subtrees.get(Right).fold(createChild(Right, insert))(_ ! insert)
+        doOrPassOn(Right, createChild(Right, insert), insert)
       } else {
-        insert.requester ! OperationFinished(insert.id)
+        removed = false
+        sendFinished(insert)
       }
-    case contains @ Contains(replyTo, id, targetElem) =>
-      if(targetElem < elem) {
-        subtrees.get(Left).fold(replyTo ! ContainsResult(id, result = false))(_ ! contains)
-      } else if (targetElem > elem) {
-        subtrees.get(Right).fold(replyTo ! ContainsResult(id, result = false))(_ ! contains)
+    case contains : Contains =>
+      if(contains.elem < elem) {
+        subtrees.get(Left).fold(sendContains(contains, false))(_ ! contains)
+      } else if (contains.elem > elem) {
+        subtrees.get(Right).fold(sendContains(contains, false))(_ ! contains)
       } else {
-        replyTo ! ContainsResult(id, result = true)
+        sendContains(contains, !removed)
       }
   }
 
