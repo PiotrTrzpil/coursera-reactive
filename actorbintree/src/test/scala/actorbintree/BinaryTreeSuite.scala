@@ -83,6 +83,51 @@ class BinaryTreeSuite(_system: ActorSystem) extends TestKit(_system) with FunSui
     verify(requester, ops, expectedReplies)
   }
 
+
+  test("GC on empty set") {
+    val topNode = system.actorOf(Props[BinaryTreeSet])
+    topNode ! GC
+    topNode ! Contains(testActor, id = 6, 1)
+    expectMsg(ContainsResult(6, false))
+  }
+
+  test("GC on set with 0") {
+    val topNode = system.actorOf(Props[BinaryTreeSet])
+    topNode ! Insert(testActor, id = 2, 0)
+    topNode ! GC
+    topNode ! Contains(testActor, id = 6, 0)
+    expectMsg(OperationFinished(2))
+    expectMsg(ContainsResult(6, true))
+  }
+
+  test("GC on set with one element") {
+    val topNode = system.actorOf(Props[BinaryTreeSet])
+    topNode ! Insert(testActor, id = 2, 1)
+    topNode ! GC
+    topNode ! Contains(testActor, id = 6, 1)
+    expectMsg(OperationFinished(2))
+    expectMsg(ContainsResult(6, true))
+  }
+
+  test("GC") {
+    val topNode = system.actorOf(Props[BinaryTreeSet])
+
+    topNode ! Insert(testActor, id = 2, 1)
+    topNode ! Contains(testActor, id = 3, 1)
+
+    expectMsg(OperationFinished(2))
+    expectMsg(ContainsResult(3, true))
+
+    topNode ! Remove(testActor, id = 4, 1)
+    topNode ! Contains(testActor, id = 5, 1)
+
+    expectMsg(OperationFinished(4))
+    expectMsg(ContainsResult(5, false))
+
+    topNode ! GC
+    topNode ! Contains(testActor, id = 6, 1)
+    expectMsg(ContainsResult(6, false))
+  }
   test("behave identically to built-in set (includes GC)") {
     val rnd = new Random()
     def randomOperations(requester: ActorRef, count: Int): Seq[Operation] = {
