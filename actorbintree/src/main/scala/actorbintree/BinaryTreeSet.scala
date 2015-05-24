@@ -91,7 +91,7 @@ class BinaryTreeSet extends Actor {
       root ! PoisonPill
       root = newRoot
       pendingQueue.foreach(self ! _)
-
+      pendingQueue = Queue()
   }
 
 }
