@@ -86,6 +86,7 @@ class BinaryTreeSet extends Actor {
   def garbageCollecting(newRoot: ActorRef): Receive = {
     case x:Operation => pendingQueue = pendingQueue :+ x
     case CopyFinished =>
+      println("set becoming normal")
       context.become(normal)
       root ! PoisonPill
       root = newRoot
@@ -136,6 +137,7 @@ class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
   /** Handles `Operation` messages and `CopyTo` requests. */
   val normal: Receive = {
     case c@CopyTo(ref) =>
+      println( elem + " becoming "+ subtrees.values.toSet)
       context.become(copying(subtrees.values.toSet, false))
       if (!removed) {
         ref ! Insert(self, 0, elem)
@@ -177,17 +179,20 @@ class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
     */
   def copying(expected: Set[ActorRef], insertConfirmed: Boolean): Receive = {
     case OperationFinished(_) =>
+      println( elem + " becoming "+ expected + " after operation finished")
       context.become(copying(expected, true))
       maybeFinished(expected, true)
     case CopyFinished =>
-      maybeFinished(expected, insertConfirmed)
+      maybeFinished(expected.tail, insertConfirmed)
       if(expected.nonEmpty) {
+        println( elem + " becoming "+ expected.tail + " after getting copy finished")
         context.become(copying(expected.tail, insertConfirmed))
       }
   }
 
   def maybeFinished(expected: Set[ActorRef], insertConfirmed: Boolean) = {
     if(expected.isEmpty && insertConfirmed) {
+      println("sending copyfinished to parent")
       context.parent ! CopyFinished
       subtrees.values.foreach(_ ! PoisonPill)
     }

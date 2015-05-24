@@ -3,6 +3,7 @@
  */
 package actorbintree
 
+import actorbintree.BinaryTreeNode.{CopyFinished, CopyTo}
 import akka.actor.{ Props, ActorRef, ActorSystem }
 import org.scalatest.{ BeforeAndAfterAll, FlatSpec }
 import akka.testkit.{ TestProbe, ImplicitSender, TestKit }
@@ -100,7 +101,7 @@ class BinaryTreeSuite(_system: ActorSystem) extends TestKit(_system) with FunSui
     expectMsg(ContainsResult(6, true))
   }
 
-  test("GC on set with one element") {
+  test("GC on set with one_element") {
     val topNode = system.actorOf(Props[BinaryTreeSet])
     topNode ! Insert(testActor, id = 2, 1)
     topNode ! GC
