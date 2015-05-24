@@ -91,7 +91,7 @@ class BinaryTreeSet extends Actor {
       root ! PoisonPill
       root = newRoot
       pendingQueue.foreach(self ! _)
-      pendingQueue = Queue()
+      pendingQueue = Queue.empty[Operation]
   }
 
 }
@@ -138,13 +138,13 @@ class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
   val normal: Receive = {
     case c@CopyTo(ref) =>
       println( elem + " becoming "+ subtrees.values.toSet)
-      context.become(copying(subtrees.values.toSet, false))
+      context.become(copying(c, subtrees.values.toSet, false))
       if (!removed) {
         ref ! Insert(self, 0, elem)
       } else {
         self ! OperationFinished(0)
       }
-      subtrees.values.foreach(_ ! c)
+
     case remove: Remove =>
       if(remove.elem < elem) {
         doOrPassOn(Left, sendFinished(remove), remove)
@@ -177,16 +177,17 @@ class BinaryTreeNode(val elem: Int, initiallyRemoved: Boolean) extends Actor {
   /** `expected` is the set of ActorRefs whose replies we are waiting for,
     * `insertConfirmed` tracks whether the copy of this node to the new tree has been confirmed.
     */
-  def copying(expected: Set[ActorRef], insertConfirmed: Boolean): Receive = {
+  def copying(c: CopyTo, expected: Set[ActorRef], insertConfirmed: Boolean): Receive = {
     case OperationFinished(_) =>
+      subtrees.values.foreach(_ ! c)
       println( elem + " becoming "+ expected + " after operation finished")
-      context.become(copying(expected, true))
+      context.become(copying(c, expected, true))
       maybeFinished(expected, true)
     case CopyFinished =>
       maybeFinished(expected.tail, insertConfirmed)
       if(expected.nonEmpty) {
         println( elem + " becoming "+ expected.tail + " after getting copy finished")
-        context.become(copying(expected.tail, insertConfirmed))
+        context.become(copying(c, expected.tail, insertConfirmed))
       }
   }
 
